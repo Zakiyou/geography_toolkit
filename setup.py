@@ -11,7 +11,7 @@ setup(
     description="Un package Python pour la géographie",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Zakiyou/world_geo_data.git",
+    url="https://github.com/Zakiyou/geography_toolkit.git",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
