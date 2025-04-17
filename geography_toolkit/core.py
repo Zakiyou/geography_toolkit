@@ -5733,7 +5733,7 @@ def get_all_info(country_name):
     """
     return _find_country(country_name)
 
-# Fonction interne pour trouver un pays
+# Fonction interne pour trouver un pays.
 def _find_country(country_name):
     """
     Trouve et retourne les données d'un pays donné.
